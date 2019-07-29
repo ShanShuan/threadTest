@@ -5,7 +5,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
 /**
- * Description:
+ * Description: Future
  *
  * @author wang zifeng
  * @Date Create on 2019-07-29 15:43
@@ -36,4 +36,6 @@ public class UserFuture {
         System.out.println("最后计算结果："+futureTask.get());
         System.out.println("222");
     }
+
+
 }
