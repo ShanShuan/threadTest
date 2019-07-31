@@ -5,7 +5,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
 /**
- * Description: Future
+ * Description: Future 的使用列子
  *
  * @author wang zifeng
  * @Date Create on 2019-07-29 15:43
